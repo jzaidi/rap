@@ -16,4 +16,4 @@ const server = app.listen(PORT, () => {
     console.log(`Rap Blog: Listening on port no. ${PORT}`);
 });
 
-module.exports = {app, server};
+module.exports = {app, server}; 
